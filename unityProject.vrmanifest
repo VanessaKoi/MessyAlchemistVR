@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.messyalchemist.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\3D-Student\\Documents\\2019-20\\4AHMNM\\Wild Vanessa\\MessyAlchemistVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MessyAlchemist [Testing]"
+        }
+      }
+    }
+  ]
+}
